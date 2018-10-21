@@ -7,4 +7,6 @@ Deletes all subscriptions...
 
 
 # Usage
+```python
 python filename
+```
