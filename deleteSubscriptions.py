@@ -37,5 +37,5 @@ def deleteAllSubscriptions():
         for subscription in response.json():
             deleteSubscriptionById(subscription['id'])
         
-#deleteAllSubscriptions()#
-deleteSubscriptionByEntityType("Task")
+deleteAllSubscriptions()
+#deleteSubscriptionByEntityType("Type")
