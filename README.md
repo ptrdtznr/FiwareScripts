@@ -3,7 +3,9 @@
 Simple scripts which might be useful during development... 
 
 ## deleteSubscriptions.py
-Deletes all subscriptions...
+Supported Features:
+ - Delete all Subscriptions
+ - Delete Subscription by {Id, Type}
 
 
 # Usage
